@@ -76,7 +76,7 @@ function App() {
     <div className={`app ${isDark ? 'dark' : 'light'}`}>
       <header className="app-header">
         <div className="header-content">
-          <h1>📝 Group Todo List</h1>
+          <h1>Todo List Application</h1>
           <div className="header-actions">
             <button
               onClick={toggleTheme}
