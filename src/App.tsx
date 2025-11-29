@@ -158,7 +158,7 @@ function App() {
       <footer className="app-footer">
         <p>Made by <strong>Premdeep T</strong></p>
         <p>
-          <a href="https://github.com/yourname/todo-app" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/deepprem518-maker/application" target="_blank" rel="noopener noreferrer">
             GitHub Project
           </a>
         </p>
